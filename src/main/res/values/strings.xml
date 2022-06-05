@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="tView1"></string>
+    <string name="tView2"></string>
+    <string name="tView3"></string>
+    <string name="metric">length</string>
+    <string name="temperature">temperature</string>
+    <string name="weight">weight</string>
+    <string-array name="spinner">
+        <item>Meter</item>
+        <item>Celsius</item>
+        <item>Kilogram</item>
+    </string-array>
+</resources>
